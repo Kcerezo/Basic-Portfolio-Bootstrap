@@ -1,0 +1,57 @@
+.navbar{
+    margin: 10px;
+}
+
+.nav-item{
+
+}
+ img{
+     width: 250px;
+     height: 250px;
+ }
+
+ .container{
+     padding: 20px;
+     margin: 40px;
+ }
+
+ p{
+    float: right;
+    line-height: 1.6em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: none;
+}
+
+body{
+     margin:50px;
+     text-align: center;
+}
+
+#bio{
+    background-color: #B0E0E6
+}
+
+.img-box{
+
+width: 200px;
+padding: 90px;
+}
+
+.card{
+    text-align: center;
+    margin-left: 80px;
+}
+
+h2{
+    margin-left: 70px;
+}
+
+.form-group{
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.button{
+    margin-left: 70px;
+}
+ 
