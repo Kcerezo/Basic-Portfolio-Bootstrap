@@ -8,6 +8,7 @@
  img{
      width: 250px;
      height: 250px;
+     margin: 18px;
  }
 
  .container{
@@ -32,13 +33,12 @@ body{
 }
 
 .img-box{
-
 width: 200px;
-padding: 90px;
+padding: 50px;
 }
 
 .card{
-    text-align: center;
+   text-align: center;
     margin-left: 80px;
 }
 
@@ -55,3 +55,6 @@ h2{
     margin-left: 70px;
 }
  
+.column{
+    padding: 30px;
+}
