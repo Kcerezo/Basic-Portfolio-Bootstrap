@@ -89,7 +89,7 @@ h2{
 
 .column{
     margin: 50px;
-    text-shadow: 0 0 3px green;
+    text-shadow: 0 0 3px darkslategray;
     border-style: double;
 }
 
